@@ -1,2 +1,2 @@
 # Hi there, I'm Julian! 👋
-A student who loves coding.
+A guy who loves coding.
